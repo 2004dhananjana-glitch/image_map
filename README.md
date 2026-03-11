@@ -2,4 +2,4 @@
 Created website to navigate to technology faculty ICT Laboratory.
 
 
-https://github.com/2004dhananjana-glitch/image_map/blob/main/img8.jpeg
+![ICT Lab Image](https://raw.githubusercontent.com/2004dhananjana-glitch/image_map/main/img8.jpeg)
